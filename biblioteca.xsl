@@ -28,8 +28,3 @@
             </html>
         </xsl:template>
 </xsl:stylesheet>
-
-<!-- 
-    configuracion SAXON
-    java saxon11.jar -s:biblioteca.xml -xsl:biblioteca.xsl -o:salida.html
--->
