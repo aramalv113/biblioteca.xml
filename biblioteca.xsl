@@ -12,7 +12,7 @@
                     <tr bgcolor="#CCFFFF">
                         <th style="text-align:left">Titulo</th>
                         <th style="text-align:left">Autor</th>
-                        <th style="text-align:left">Anyo</th>
+                        <th style="text-align:left">Año</th>
                         <th style="text-align:left">Editorial</th>
                     </tr>
                     <xsl:for-each select="libro">
