@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="https://github.com/aramalv113/bibliotecaXML/biblioteca.xsl" type="text/xsl"?>
+<biblioteca>
+    <libro COD="1">
+        <titulo>XML Practico</titulo>
+        <autor>Thierry Boulanger</autor>
+        <anyo>2015</anyo>
+        <editorial>Ediciones ENI</editorial>
+    </libro>
+    <libro COD="11">
+        <titulo>Learning XML</titulo>
+        <autor>Erik T. Ray</autor>
+        <anyo>2003</anyo>
+        <editorial>O'Reilly</editorial>
+    </libro>
+</biblioteca>
